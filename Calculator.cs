@@ -34,3 +34,4 @@ namespace CSharpBasicTasks
         }
     }
 }
+// Решение заданий 1 и 2
